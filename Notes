@@ -1,0 +1,10 @@
+---------Create Node.JS App---------
+npx create-next-app@latest ./ --typescript --tailwind --eslint
+
+---install shadcn
+npx shadcn@latest init -d
+
+---install component button
+npx shadcn@latest add button
+
+set a flowchart before, for putting down how the app will work
